@@ -12,3 +12,6 @@ If you use this dataset, you are kindly requested to cite the following paper:
 S.H. Safavi, M. Eslami, A. Sharifi, A. Hajihoseini, M. Riahi, M. Rekabi, S. Sarafan, R. Zarnoosheh, E. Khodapanah, 
 S. Barzegari, S. M. Seyedin, F. Torkamani-Azar, "Image Dataset for Persian Road Surface Markings", The 10th Iranian 
 Conference on Machine Vision and Image Processing, Accepted for Publication, 2017.
+
+PRSM Dataset Download Link:
+https://www.dropbox.com/sh/6mzmmmay4w52jhf/AAC8mBkG5OmVz-cUDQhdKSZAa?dl=0
